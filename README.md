@@ -14,7 +14,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-image_circular_progress: ^1.0.0
+image_circular_progress: ^1.0.1
 
 ```
 

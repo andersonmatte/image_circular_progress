@@ -8,3 +8,10 @@
 - ✅ - Support for both fixed and indeterminate progress values.
 - ✅ - Customizable colors, sizes, and thicknesses.
 - ✅ - Optional opacity animation for the center image.
+
+## [1.0.1] - 2025-05-27
+
+### 🚀 Added
+
+- ✅ - Only adjustments in the documentation.
+
