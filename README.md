@@ -4,6 +4,30 @@ A custom Flutter widget that displays a circular progress indicator with a cente
 
 ![image_circular_progress example](https://raw.githubusercontent.com/andersonmatte/image_circular_progress/main/screenshots/demo.gif)
 
+![Flutter Version](https://img.shields.io/badge/flutter-%E2%89%A53.0.0-blue)
+![Pub Version](https://img.shields.io/pub/v/image_circular_progress.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+## 🚀 Installation
+
+Add to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+image_circular_progress: ^1.0.0
+
+```
+
+## 🚀 How to Use
+
+Import in your Dart code:
+
+```
+import 'package:image_circular_progress/image_circular_progress.dart';
+```
+
 ## 💡 Features
 
 - Circular indicator with set or unset value.
@@ -12,7 +36,11 @@ A custom Flutter widget that displays a circular progress indicator with a cente
 - Color, size, and thickness settings.
 - Accessibility support.
 
-## 🛠️ Usage
+## ✨Demos
+
+![Success](https://raw.githubusercontent.com/andersonmatte/image_circular_progress/refs/heads/master/assets/example.png)
+
+✅ Example
 
 ```dart
   @override
@@ -56,3 +84,17 @@ Widget build(BuildContext context) {
   );
 }
 ```
+
+## 🤝 Contributing
+
+Contributions are welcome! Open an issue or submit a pull request:
+https://github.com/andersonmatte/image_circular_progress
+
+## 👨‍💻 Author
+
+Anderson Matte
+[GitHub](https://github.com/andersonmatte/) | [LinkedIn](https://www.linkedin.com/in/andersonmatte/)
+
+## 📝 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
