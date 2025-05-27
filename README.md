@@ -38,7 +38,9 @@ import 'package:image_circular_progress/image_circular_progress.dart';
 
 ## ✨Demos
 
-![Success](https://raw.githubusercontent.com/andersonmatte/image_circular_progress/refs/heads/master/assets/example.png)
+## ✨Demos
+
+<img src="https://raw.githubusercontent.com/andersonmatte/image_circular_progress/refs/heads/master/assets/example.png" width="390" height="844" alt="Demo do ImageCircularProgress" />
 
 ✅ Example
 
