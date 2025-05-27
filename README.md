@@ -2,8 +2,6 @@
 
 A custom Flutter widget that displays a circular progress indicator with a center image. Ideal for loading screens with branding or custom visuals.
 
-![image_circular_progress example](https://raw.githubusercontent.com/andersonmatte/image_circular_progress/main/screenshots/demo.gif)
-
 ![Flutter Version](https://img.shields.io/badge/flutter-%E2%89%A53.0.0-blue)
 ![Pub Version](https://img.shields.io/pub/v/image_circular_progress.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
